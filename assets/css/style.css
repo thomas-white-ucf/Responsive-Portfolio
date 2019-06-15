@@ -4,7 +4,7 @@
      - fixed my nav tabs */
 
 #masthead {
-    z-index: 99;
+    z-index: 50;
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
@@ -158,6 +158,7 @@ nav a:first-child {
 }
 
 .containertwo {
+    z-index: 99;
     width: 100%;
     max-width: 960px;
     margin: 175px auto 100px auto;
